@@ -4,7 +4,7 @@ title: About
 include_in_header: true
 ---
 
-# :dizzy_face: **This is Just Web Augmented Reality** :dizzy_face:
+# {"sneezing_face": "https://github.githubassets.com/images/icons/emoji/unicode/1f927.png?v8"} **This is Just Web Augmented Reality**
 
 > Now, many people got a phone powerful enough to do web AR in their pocket. I think this performance improvement makes web AR a reality. i am all exited by what people are gonna with it :)
 
