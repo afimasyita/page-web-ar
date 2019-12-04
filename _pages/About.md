@@ -4,7 +4,7 @@ title: About
 include_in_header: true
 ---
 
-# {"sneezing_face": "https://github.githubassets.com/images/icons/emoji/unicode/1f927.png?v8"} **This is Just Web Augmented Reality**
+# **This is Just Web Augmented Reality**
 
 > Now, many people got a phone powerful enough to do web AR in their pocket. I think this performance improvement makes web AR a reality. i am all exited by what people are gonna with it :)
 
@@ -31,5 +31,5 @@ include_in_header: true
 
 4. Arrange the parts of marker to be human skeleton
 
-5. That's it, no need to install the app or anything else :sneezing_face: :sneezing_face: :sneezing_face:    
+5. That's it, no need to install the application or anything else    
 
