@@ -31,5 +31,5 @@ include_in_header: true
 
 4. Arrange the parts of marker to be human skeleton
 
-5. That's it, no need to install the app or anything else ^_^.    
+5. That's it, no need to install the app or anything else :sneezing_face: :sneezing_face: :sneezing_face:    
 
