@@ -2,11 +2,22 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	                        
 	<base target="_blank">
 
 	<title class="pageTitle">{{ site.page_title }}</title>
 	<meta name="description" content="{{ site.app_description }}">
 
+	<!--This tag customizes the status bar in iDevices and content attribute can have value: 
+	default(transparent), black, Black-translucent(results in a transparent background with white text.
+	Additionally, this status bar floats above your content, 
+	meaning you have to push your content down 20px in order to not have the content overlap with the status bar text.-->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="default"> 
+	<!--Here replace 'icon.png' with the path of your app's icon-->
+	<link rel="apple-touch-icon" href="icon.png">
+	
+	
 	<link rel="shortcut icon" href="{{ site.app_icon }}">
 
 	<!-- Smart App Banner -->
@@ -19,6 +30,7 @@
 	<link rel="stylesheet" href="main.css">
 	<link rel="stylesheet" href="../main.css">
 	
+	<!-- adding pwa icon app web -->
 	<link href="splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
 	<link href="splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
 	<link href="splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
