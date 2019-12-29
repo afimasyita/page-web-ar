@@ -23,7 +23,7 @@ include_in_header: true
 
 ### How To Play It
 
-1. Download the marker on Google Drive  [Web AR Game Puzzle](https://drive.google.com/open?id=13_l3Z7Ylq64xNisq7tkyil3owdpZIfpX), or back to [Homepage](https://trf-web-ar.netlify.com/)
+1. Download the marker on this link [Google Drive](https://drive.google.com/open?id=13_l3Z7Ylq64xNisq7tkyil3owdpZIfpX), or back to [Homepage](https://trf-web-ar.netlify.com/)
 
 2. Scan the marker with your smartphone camera device, if get pop up notif -> allow to get permission camera
 
