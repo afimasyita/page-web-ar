@@ -1,0 +1,22 @@
+{
+	"dir" : "ltr",
+	"lang" : "en-us",
+	"name" : "Web AR",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://trf-web-ar.netlify.com/",
+	"short_name" : "Web AR",
+	"theme_color" : "transparent",
+	"description" : "Web Augmented Reality Game Puzzle Of Skeleton.",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : "[object Object]",
+	"prefer_related_applications" : "true",
+	"icons" : [
+		{
+			"src": "https://trf-web-ar.netlify.com/assets/appicon.png",
+			"sizes": "1536x1536"
+		}],
+	"screenshots" : [],
+	"generated" : "true"
+}
