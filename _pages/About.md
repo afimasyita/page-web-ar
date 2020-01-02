@@ -35,11 +35,14 @@ include_in_header: true
 
 ## New Features Device iOS & Android !
 
-  - If you already downloaded the marker, you can open the application any time by using this method 
+  > If you already downloaded the marker, you can open the application any time by using this method 
 
-### Add To Home Screen
-iOS                        |  Android
-:-------------------------:|:-------------------------:
-![](/assets/homescren.jpg) |  ![](/assets/android.png)
+### Add To Home Screen Device iOS
+
+![](/assets/homescren.jpg)
+
+### Add To Home Screen Device Android
+
+![](/assets/android.png)
 
 
