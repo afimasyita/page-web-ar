@@ -36,7 +36,8 @@ include_in_header: true
 ## New Features Device iOS!
 
   - If you already downloaded the marker, you can open the application any time by using this method 
-  ### Add To HomeScreen
+
+### Add To HomeScreen
 
 ![Screenshot 1](/assets/homescren.jpg)
 
