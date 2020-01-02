@@ -11,7 +11,7 @@ include_in_header: true
 
 
 
-## Just Play On the following browser setups:
+## Just Play On The Following Browser Setups:
 
  - Browser on PC with Webcam or Leptop
 
@@ -33,11 +33,13 @@ include_in_header: true
 
 5. That's it, no need to install the application or anything else   
 
-## New Features Device iOS!
+## New Features Device iOS & Android !
 
   - If you already downloaded the marker, you can open the application any time by using this method 
 
 ### Add To Home Screen
+iOS                        |  Android
+:-------------------------:|:-------------------------:
+![](/assets/homescren.jpg) |  ![](/assets/android.png)
 
-![Add To Home Screen](/assets/homescren.jpg)
 
