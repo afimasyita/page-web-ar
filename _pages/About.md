@@ -11,7 +11,7 @@ include_in_header: true
 
 
 
-### Just Play On the following browser setups:
+## Just Play On the following browser setups:
 
  - Browser on PC with Webcam or Leptop
 
@@ -21,7 +21,7 @@ include_in_header: true
 
  - Microsoft Edge on Windows 10
 
-### How To Play It
+## How To Play It
 
 1. Download the marker on this link [Google Drive](https://drive.google.com/open?id=13_l3Z7Ylq64xNisq7tkyil3owdpZIfpX), or back to [Homepage](https://trf-web-ar.netlify.com/)
 
@@ -37,7 +37,7 @@ include_in_header: true
 
   - If you already downloaded the marker, you can open the application any time by using this method 
 
-### Add To HomeScreen
+### Add To Home Screen
 
-![Screenshot 1](/assets/homescren.jpg)
+![Add To Home Screen](/assets/homescren.jpg)
 
