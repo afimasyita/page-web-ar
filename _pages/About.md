@@ -31,5 +31,12 @@ include_in_header: true
 
 4. Arrange the parts of marker to be human skeleton
 
-5. That's it, no need to install the application or anything else    
+5. That's it, no need to install the application or anything else   
+
+## New Features Device iOS!
+
+  - If you already downloaded the marker, you can open the application any time by using this method 
+  ### Add To HomeScreen
+
+![Screenshot 1](/assets/homescren.jpg)
 
