@@ -11,7 +11,7 @@ include_in_header: true
 
 
 
-## Just Play On The Following Browser Setups:
+## Just Play On The Following Browser Setups :flushed:
 
  - Browser on PC with Webcam or Leptop
 
@@ -21,7 +21,7 @@ include_in_header: true
 
  - Microsoft Edge on Windows 10
 
-## How To Play It
+## How To Play It :video_game:
 
 1. Download the marker on this link [Google Drive](https://drive.google.com/open?id=13_l3Z7Ylq64xNisq7tkyil3owdpZIfpX), or back to [Homepage](https://trf-web-ar.netlify.com/)
 
@@ -33,15 +33,15 @@ include_in_header: true
 
 5. That's it, no need to install the application or anything else   
 
-## New Features Device iOS & Android !
+## New Features Device iOS & Android :satisfied:
 
   > If you already downloaded the marker, you can open the application any time by using this method 
 
-### Add To Home Screen Device iOS
+### Add To Home Screen Device iOS :pushpin:
 
 ![](/assets/homescren.jpg)
 
-### Add To Home Screen Device Android
+### Add To Home Screen Device Android :pushpin:
 
 ![](/assets/android.png)
 
