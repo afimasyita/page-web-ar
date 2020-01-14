@@ -3,7 +3,7 @@
 	"lang" : "en-us",
 	"name" : "Web AR",
 	"scope" : "/",
-	"display" : "standalone",
+	"display" : "default",
 	"start_url" : "https://trf-web-ar.netlify.com/",
 	"short_name" : "Web AR",
 	"theme_color" : "default",
