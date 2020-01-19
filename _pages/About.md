@@ -11,37 +11,37 @@ include_in_header: true
 
 
 
-## Just Play On The Following Browser Setups 🤭
+## Cukup mainkan game puzzle AR ini dengan menggunakan browser berikut 🤭
 
- - Browser on PC with Webcam or Leptop
+ - Browser di PC dengan bantuan Webcam atau Leptop
 
- - Chrome, Mozilla Firefox on Android 4.4.2 - Latest
+ - Chrome, Mozilla Firefox di Android versi 4.4.2 - Versi Terakhir
 
- - Safari on iOS 11 - Latest
+ - Safari di iOS 11 - Versi Terakhir
 
- - Microsoft Edge on Windows 10
+ - Microsoft Edge di Smartphone Windows 10
 
-## How To Play It 🎮
+## Cara Memainkan Game Puzzle AR Berbasis Web 🎮
 
-1. Download the marker on this link [Google Drive](https://drive.google.com/open?id=13_l3Z7Ylq64xNisq7tkyil3owdpZIfpX), or back to [Homepage](https://trf-web-ar.netlify.com/)
+1. Download marker terlebih dahulu di link berikut [Google Drive](https://drive.google.com/open?id=13_l3Z7Ylq64xNisq7tkyil3owdpZIfpX), atau kembali ke halaman awal [Homepage](https://trf-web-ar.netlify.com/)
 
-2. Scan the marker with your smartphone camera device, if get pop up notif -> allow to get permission camera
+2. Scan marker yang telah di download dengan menggunnakan kamera smartphone anda, jika terdapat tampilan notifikasi pop up -> ijinkan (allow) untuk mengakses kamera dari smartphone
 
-3. Point the camera device to marker, until 3D object appears on the camera
+3. Arahkan kamera ke marker bergambar, maka model 3 Dimensi dari bagian kerangka tulang akan tampil di layar smartphone
 
-4. Arrange the parts of marker to be human skeleton
+4. Susun atau rangkai bagian-bagian marker yang telah terdownload menjadi bentuk sempurna dari tulang kerangka manusia 
 
-5. That's it, no need to install the application or anything else   
+5. Tidak perlu untuk meng-install aplikasi ini ke dalam smartphone anda   
 
-## New Features Device iOS & Android 😁
+## Menambahkan Aplikasi Ini ke Layar Utama Anda (Device iOS & Android) 😁
 
-  > If you already downloaded the marker, you can open the application any time by using this method 
+  > Jika anda sudah mendownload marker, anda bisa membuka aplikasi ini kapan saja tanpa perlu lagi mengetikan alamat dari url dengan cara berikut dibawah ini 
 
-### Add To Home Screen Device iOS 📌
+### Menambahkan Home Screen Device iOS 📌
 
 ![](/assets/homescren.jpg)
 
-### Add To Home Screen Device Android 📌
+### Menambahkan Home Screen Device Android 📌
 
 ![](/assets/android.png)
 
