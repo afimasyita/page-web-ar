@@ -13,7 +13,7 @@ include_in_header: true
 
 ## Cukup mainkan game puzzle AR ini dengan menggunakan browser berikut 🤭
 
- - Browser di PC dengan bantuan Webcam atau Leptop
+ - Browser di PC dengan bantuan Webcam atau Laptop
 
  - Chrome, Mozilla Firefox di Android versi 4.4.2 - Versi Terakhir
 
