@@ -9,22 +9,22 @@ Cara penyusunan marker yang benar dari Game Puzzle AR Human Skeleton dapat anda 
 
 ### Gambar Cara penyusunan Dari Marker 📌
 
-![](/assets/fix-susun-marker.jpg)
+![fix-susun-marker](/assets/fix-susun-marker.jpg)
 
 <br>
 
 ### `Keterangan dari marker`
-- Marker U -> Tulang Tengkorak
-- Marker S -> Tulang Iga
-- Marker M -> Tulang Panggul
-- Marker J -> Tulang Kaki Kanan
-- Marker A -> Tulang Telapak Kaki Kanan
-- Marker Y -> Tulang Tulang Kaki Kiri
-- Marker A -> Tulang Telapak Kaki Kiri
-- Marker F -> Tulang Tulang Lengan Kiri
-- Marker T -> Tulang Tulang Pergelangan Tangan Kiri
-- Marker I -> Tulang Tulang Lengan Kanan
-- Marker K -> Tulang Tulang Pergelangan Tangan Kanan
+- Marker U ➡ Tulang Tengkorak
+- Marker S ➡ Tulang Iga
+- Marker M ➡ Tulang Panggul
+- Marker J ➡ Tulang Kaki Kanan
+- Marker A ➡ Tulang Telapak Kaki Kanan
+- Marker Y ➡ Tulang Kaki Kiri
+- Marker A ➡ Tulang Telapak Kaki Kiri
+- Marker F ➡ Tulang Lengan Kiri
+- Marker T ➡ Tulang Pergelangan Tangan Kiri
+- Marker I ➡ Tulang Lengan Kanan
+- Marker K ➡ Tulang Pergelangan Tangan Kanan
 
 <br>
 
