@@ -9,7 +9,7 @@ Cara penyusunan marker yang benar dari Game Puzzle AR Human Skeleton dapat anda 
 
 ### Gambar Cara penyusunan Dari Marker 📌
 
-![fix-susun-marker](/assets/fix-susun-marker.jpg)
+![fix-marker](/assets/fix-marker.png)
 
 <br>
 
