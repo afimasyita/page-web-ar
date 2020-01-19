@@ -4,8 +4,9 @@ title: Keterangan Marker
 include_in_header: true
 ---
 
-# Contoh Cara Penyusunan Dari Marker 
-Cara penyusunan marker yang benar dari Game Puzzle AR Human Skeleton dapat anda lihat pada gambar dibawah ini
+# Contoh Cara Penyusunan Dari Marker
+
+> Cara penyusunan marker yang benar dari Game Puzzle AR Human Skeleton dapat anda lihat pada gambar dibawah ini
 
 ### Gambar Cara penyusunan Dari Marker 📌
 
@@ -13,7 +14,8 @@ Cara penyusunan marker yang benar dari Game Puzzle AR Human Skeleton dapat anda 
 
 <br>
 
-### `Keterangan dari marker`
+### `Keterangan Gambar Marker`
+
 - Marker U ➡ Tulang Tengkorak
 - Marker S ➡ Tulang Iga
 - Marker M ➡ Tulang Panggul
